@@ -1,4 +1,4 @@
-# ESP-01-programmer
+# ESP-01-programmer version 1.0
 Programmer for module ESP-01
 
 If do you see in Arduino IDE console text "Connecting" then, switch GPIO0 pin to ground, ant push RESET button. 
